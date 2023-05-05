@@ -1,4 +1,4 @@
-### Proyect Basci funtionality Power-BI
+# Proyect Basic funtionality Power-BI
 
 ## Clean Data
 ## M Language
